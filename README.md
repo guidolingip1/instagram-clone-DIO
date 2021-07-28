@@ -1,4 +1,4 @@
-# instagagram-clone-DIO
+# instagram-clone-DIO
 Clone do instagram para o bootcamp da DIO.
 
 # Resultado
